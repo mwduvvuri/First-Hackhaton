@@ -1,0 +1,11 @@
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(to right top, #5f6670, #2c8ba5, #00b3af, #00d581, #a8eb12);
+    
+}
+input{
+    margin: 3px;
+
+}
